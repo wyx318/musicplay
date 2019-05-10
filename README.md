@@ -1,4 +1,4 @@
-# 音乐播放器
+# 音乐播放器 [效果预览](https://wyx318.github.io/musicplay/)
 ## API
 ### 属性
 #### 1. audioObject
